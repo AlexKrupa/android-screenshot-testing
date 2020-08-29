@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alexkrupa.screenshottestingsandbox.test"
+    android:sharedUserId="com.alexkrupa.screenshottestingsandbox.uid">
+
+    <application android:requestLegacyExternalStorage="true"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+</manifest>
